@@ -17,7 +17,7 @@ header("location: profile.php");//redirect to users profile
 			background-size: cover;
 			background-position: center;
 			font-family: sans-serif;
-			background-image: url("background.png");
+			background-image: url("th (5).jpg");
 		}
 
 
@@ -26,10 +26,10 @@ header("location: profile.php");//redirect to users profile
 <body>
 	
 	<div class="loginbox">
-		<img src="avatar.jpg" class="avatar">
+		
 		<br/>
 		<br/>
-			<h1>Login Here</h1>
+			<h1>Login</h1>
 			<form action="" method="post">
 				<p>Username</p>
 				<input type="text" name="username" placeholder="Enter Username" value="<?php if(isset($_COOKIE["username"])) {echo $_COOKIE["username"];} ?>" />

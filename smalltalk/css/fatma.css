@@ -1,0 +1,24 @@
+body{
+	background-color: white;
+}
+
+input{
+	border-radius: 5px;
+	background-color:  #E1E1E1;
+}
+.navigation{
+			color:#72BCD4;
+		}
+	.form-text{
+		border-radius: 5px;
+		width:450px;
+	}
+.comment{
+	border: 1px solid grey;
+	margin-bottom:15px;
+	border-radius: 5px;
+	background-color: #E1E1E1;
+}
+.link-reply{
+	color: blue;
+}

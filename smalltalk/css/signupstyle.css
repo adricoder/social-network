@@ -1,7 +1,6 @@
 .signupbox{
 	width: 320px;
 	height: 420px;
-	background: transparent;
 	color: #fff;
 	top: 50%;
 	left: 50%;
@@ -11,14 +10,6 @@
 	padding: 70px 30px;
 }
 
-.avatar{
-	width: 100px;
-	height: 100px;
-	border-radius: 50%;
-	position: absolute;
-	top: -50px;
-	left: calc(50% - 50px);
-}
 
 h1{
 	margin: 0;
@@ -41,8 +32,6 @@ h1{
 .signupbox  input[type="text"], input[type="password"], input[type="email"]
 {
 	border: none;
-	border-bottom: 1px solid #fff;
-	background: transparent;
 	outline: none;
 	height: 40px;
 	color: #fff;
@@ -55,11 +44,6 @@ h1{
 	outline: none;
 	height: 40px;
 	
-}
-
-.signupbox input[type="submit"]:hover
-{
-      color: #00F;
 }
 
 

@@ -31,18 +31,18 @@ if(isset($_POST['submit'])){
 			background-size: cover;
 			background-position: center;
 			font-family: sans-serif;
-			background-image: url("background.png");
+			background-image: url("th (5).jpg");
 		}
 	</style>
 </head>
 <body>
 	
 	<div class="signupbox">
-		<img src="avatar.jpg" class="avatar">
+
 		<br/>
 		<br/>
 
-			<h1>SignUp Here</h1>
+			<h1>SignUp</h1>
 			<form method="post" action="signup.php">
 				<p>Username</p>
 				<input type="text" name="username" placeholder="This will be your username">

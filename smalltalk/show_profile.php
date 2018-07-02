@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     <head>
         <title>Friend profile</title>
@@ -52,7 +52,7 @@ try
 
 }
 catch(PDOException $e)
-{
+// {
     //HandleErrors
 }
 
@@ -66,3 +66,4 @@ catch(PDOException $e)
     </div>
     </body>
 </html>
+ -->
